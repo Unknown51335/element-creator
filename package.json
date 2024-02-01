@@ -1,0 +1,18 @@
+{
+  "name": "element-creator",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Easily create HTML elements with JavaScript",
+  "license": "MIT",
+  "author": "Unknown51335<https://github.com/Unknown51335>",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.0.11"
+  }
+}
