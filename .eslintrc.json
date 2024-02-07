@@ -1,0 +1,9 @@
+{
+  "extends": ["alloy", "alloy/typescript"],
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "globals": {},
+  "rules": {}
+}
